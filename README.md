@@ -21,4 +21,4 @@ Samples of images of Fashion MNIST with NS Loss GAN
 
 Samples of images of Fashion MNIST with Wasserstein GAN 
 
-![Samples of images of Fashion MNIST with NS Loss GAN ](images/ConditionalGAN_FashionMNIST.png)
+![Samples of images of Fashion MNIST with NS Loss GAN ](images/WSGAN_FashionMNIST.png)
